@@ -1,0 +1,1 @@
+/home/dio/.config/fisherman/grc/init.fish

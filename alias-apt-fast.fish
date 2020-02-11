@@ -1,0 +1,1 @@
+alias af "apt-fast"
